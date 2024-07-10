@@ -34,7 +34,7 @@ For more information or to get in touch, visit our [Contact Page](#).
 - [Services](#)
 - [About Us](#)
 - [Contact](#)
-
+![screenshot](https://github.com/AlexKbSon2005/Crab-Dynamics-website/blob/main/images/Screenshot%202024-07-10%20163935.png)
 ![Screenshot](https://github.com/AlexKbSon2005/Crab-Dynamics-website/blob/main/images/Screenshot%202024-07-10%20163950.png)
 
 ## License
