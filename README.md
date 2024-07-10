@@ -34,7 +34,9 @@ For more information or to get in touch, visit our [Contact Page](#).
 - [Services](#)
 - [About Us](#)
 - [Contact](#)
-![image]("https://github.com/AlexKbSon2005/Crab-Dynamics-website/blob/main/images/Screenshot%202024-07-10%20163950.png)"
+
+![Screenshot](https://github.com/AlexKbSon2005/Crab-Dynamics-website/blob/main/images/Screenshot%202024-07-10%20163950.png)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
